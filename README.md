@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kleon</h1>
-<h3 align="center">A passionate 14 year old app/web developer in Italy</h3>
+<h3 align="center">I'm a passionate 14-year-old web and app developer from Italy, constantly learning, building, and pushing my skills in Flutter, React, and full-stack development.
+
+I started my programming journey by exploring Python, where I learned the fundamentals of logic, problem-solving, and how software really works behind the scenes. From there, I moved into web development with HTML, CSS, and JavaScript, and eventually fell in love with building real apps that people can actually use.
+
+Right now, my main focus is on Flutter and modern UI design, creating clean, minimal, and functional interfaces. I enjoy turning ideas into structured projects, planning features, and improving performance step by step instead of rushing results.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
